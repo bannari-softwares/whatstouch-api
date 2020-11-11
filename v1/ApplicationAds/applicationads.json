@@ -1,0 +1,18 @@
+{
+    "applicationList": [
+        {
+            "appName": "WhatsTouch",
+            "appReview": "4/5",
+            "appIcon": "icons/a.png",
+            "adBackground": "icons/a.png",
+            "appDescription": "icons/a.png"
+        },
+        {
+            "appName": "WhatsTouch",
+            "appReview": "4/5",
+            "appIcon": "icons/a.png",
+            "adBackground": "icons/a.png",
+            "appDescription": "icons/a.png"
+        }
+    ]
+}
