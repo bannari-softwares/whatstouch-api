@@ -10,9 +10,9 @@
         {
             "appName": "WhatsTouch",
             "appReview": "4/5",
-            "appIcon": "./icons/a.png",
-            "adBackground": "./icons/a.png",
-            "appDescription": "./icons/a.png"
+            "appIcon": "./icons/b.png",
+            "adBackground": "./icons/b.png",
+            "appDescription": "./icons/b.png"
         }
     ]
 }
