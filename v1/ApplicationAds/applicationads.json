@@ -6,7 +6,7 @@
             "appIcon": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/whatsapp_business.png",
             "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_1.png",
             "appDescription": "Test descrpition data",
-            "buttonName": "Install",
+            "buttonName": "Install1",
             "isFullScreenAd": false,
             "appLink":"www.google.com"
         },
@@ -16,7 +16,7 @@
             "appIcon": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/whatsapp_gb.png",
             "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_2.png",
             "appDescription": "Test descrpition data",
-            "buttonName": "Install",
+            "buttonName": "Install2",
             "isFullScreenAd": false,
             "appLink":"www.google.com"
         },
@@ -26,7 +26,7 @@
             "appIcon": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/whatsapp_normal.png",
             "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_3.png",
             "appDescription": "Test descrpition data",
-            "buttonName": "Install",
+            "buttonName": "Install3",
             "isFullScreenAd": false,
             "appLink":"www.google.com"
         },
@@ -36,7 +36,7 @@
             "appIcon": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/a.png",
             "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_4.png",
             "appDescription": "Test descrpition data",
-            "buttonName": "Install",
+            "buttonName": "Install4",
             "isFullScreenAd": false,
             "appLink":"www.google.com"
         },
@@ -48,7 +48,7 @@
             "appDescription": "",
             "buttonName": "",
             "isFullScreenAd": true,
-            "appLink":"www.google.com"
+            "appLink":""
         },
         {
             "appName": "",
