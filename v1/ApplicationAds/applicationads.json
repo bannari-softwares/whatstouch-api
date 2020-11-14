@@ -5,28 +5,54 @@
             "appReview": "4/5",
             "appIcon": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/whatsapp_business.png",
             "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_1.png",
-            "appDescription": "Test descrpition data"
+            "appDescription": "Test descrpition data",
+            "buttonName": "Install",
+            "isFullScreenAd": false
         },
         {
             "appName": "InstaTouch",
             "appReview": "4/5",
             "appIcon": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/whatsapp_gb.png",
             "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_2.png",
-            "appDescription": "Test descrpition data"
+            "appDescription": "Test descrpition data",
+            "buttonName": "Install",
+            "isFullScreenAd": false
         },
         {
             "appName": "TiktokTouch",
             "appReview": "4/5",
             "appIcon": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/whatsapp_normal.png",
             "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_3.png",
-            "appDescription": "Test descrpition data"
+            "appDescription": "Test descrpition data",
+            "buttonName": "Install",
+            "isFullScreenAd": false
         },
         {
             "appName": "Cash Manager",
             "appReview": "4/5",
             "appIcon": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/a.png",
             "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_4.png",
-            "appDescription":"Test descrpition data"
+            "appDescription": "Test descrpition data",
+            "buttonName": "Install",
+            "isFullScreenAd": false
+        },
+        {
+            "appName": "",
+            "appReview": "",
+            "appIcon": "",
+            "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_4.png",
+            "appDescription": "",
+            "buttonName": "",
+            "isFullScreenAd": true
+        },
+        {
+            "appName": "",
+            "appReview": "",
+            "appIcon": "",
+            "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_4.png",
+            "appDescription": "",
+            "buttonName": "",
+            "isFullScreenAd": true
         }
     ]
 }
