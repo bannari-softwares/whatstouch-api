@@ -8,7 +8,27 @@
             "appDescription": "Test descrpition data",
             "buttonName": "Install1",
             "isFullScreenAd": false,
-            "appLink":"www.google.com"
+            "appLink": "www.google.com"
+        },
+        {
+            "appName": "",
+            "appReview": "",
+            "appIcon": "",
+            "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_4.png",
+            "appDescription": "",
+            "buttonName": "",
+            "isFullScreenAd": true,
+            "appLink": ""
+        },
+        {
+            "appName": "",
+            "appReview": "",
+            "appIcon": "",
+            "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_4.png",
+            "appDescription": "",
+            "buttonName": "",
+            "isFullScreenAd": true,
+            "appLink": "www.google.com"
         },
         {
             "appName": "InstaTouch",
@@ -18,7 +38,7 @@
             "appDescription": "Test descrpition data",
             "buttonName": "Install2",
             "isFullScreenAd": false,
-            "appLink":"www.google.com"
+            "appLink": "www.google.com"
         },
         {
             "appName": "TiktokTouch",
@@ -28,7 +48,7 @@
             "appDescription": "Test descrpition data",
             "buttonName": "Install3",
             "isFullScreenAd": false,
-            "appLink":"www.google.com"
+            "appLink": "www.google.com"
         },
         {
             "appName": "Cash Manager",
@@ -38,27 +58,7 @@
             "appDescription": "Test descrpition data",
             "buttonName": "Install4",
             "isFullScreenAd": false,
-            "appLink":"www.google.com"
-        },
-        {
-            "appName": "",
-            "appReview": "",
-            "appIcon": "",
-            "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_4.png",
-            "appDescription": "",
-            "buttonName": "",
-            "isFullScreenAd": true,
-            "appLink":""
-        },
-        {
-            "appName": "",
-            "appReview": "",
-            "appIcon": "",
-            "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_4.png",
-            "appDescription": "",
-            "buttonName": "",
-            "isFullScreenAd": true,
-            "appLink":"www.google.com"
+            "appLink": "www.google.com"
         }
     ]
 }
