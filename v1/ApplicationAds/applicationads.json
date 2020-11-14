@@ -4,15 +4,15 @@
             "appName": "WhatsTouch",
             "appReview": "4/5",
             "appIcon": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/a.png",
-            "adBackground": "icons/a.png",
-            "appDescription": "icons/a.png"
+            "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/a.png",
+            "appDescription": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/a.png"
         },
         {
             "appName": "WhatsTouch",
             "appReview": "4/5",
-            "appIcon": "./icons/b.png",
-            "adBackground": "./icons/b.png",
-            "appDescription": "./icons/b.png"
+            "appIcon": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/a.png",
+            "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/a.png",
+            "appDescription": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/a.png"
         }
     ]
 }
