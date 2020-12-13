@@ -8,7 +8,7 @@
             "appDescription": "Test descrpition data",
             "buttonName": "Install1",
             "isFullScreenAd": false,
-            "appLink": "www.google.com"
+            "appLink": "www.google.com","appId":"EX_0001"
         },
         {
             "appName": "",
@@ -18,7 +18,7 @@
             "appDescription": "",
             "buttonName": "",
             "isFullScreenAd": true,
-            "appLink": ""
+            "appLink": "","appId":"EX_0001"
         },
         {
             "appName": "",
@@ -28,7 +28,7 @@
             "appDescription": "",
             "buttonName": "",
             "isFullScreenAd": true,
-            "appLink": "www.google.com"
+            "appLink": "www.google.com","appId":"EX_0001"
         },
         {
             "appName": "InstaTouch",
@@ -38,7 +38,7 @@
             "appDescription": "Test descrpition data",
             "buttonName": "Install2",
             "isFullScreenAd": false,
-            "appLink": "www.google.com"
+            "appLink": "www.google.com","appId":"EX_0001"
         },
         {
             "appName": "TiktokTouch",
@@ -48,7 +48,7 @@
             "appDescription": "Test descrpition data",
             "buttonName": "Install3",
             "isFullScreenAd": false,
-            "appLink": "www.google.com"
+            "appLink": "www.google.com","appId":"EX_0001"
         },
         {
             "appName": "Cash Manager",
@@ -58,7 +58,7 @@
             "appDescription": "Test descrpition data",
             "buttonName": "Install4",
             "isFullScreenAd": false,
-            "appLink": "www.google.com"
+            "appLink": "www.google.com","appId":"EX_0001"
         }
     ]
 }
