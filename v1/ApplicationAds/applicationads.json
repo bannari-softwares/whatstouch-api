@@ -1,14 +1,14 @@
 {
     "applicationList": [
         {
-            "appName": "WhatsTouch",
-            "appReview": "4.9/5",
-            "appIcon": "https://play.google.com/store/apps/details?id=com.softwares.bannari.whatstouch",
+            "appName": "",
+            "appReview": "",
+            "appIcon": "",
             "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/app-promote_1.png",
-            "appDescription": "Share now",
-            "buttonName": "View",
-            "isFullScreenAd": false,
-            "appLink": "https://play.google.com/store/apps/details?id=com.softwares.bannari.whatstouch","appId":"EX_0002"
+            "appDescription": "",
+            "buttonName": "",
+            "isFullScreenAd": true,
+            "appLink": "","appId":"EX_0002"
         }
     ]
 }
