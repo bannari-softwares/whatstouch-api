@@ -1,0 +1,24 @@
+{
+    "applicationList": [
+        {
+            "appName": "WhatsTouch",
+            "appReview": "4/5",
+            "appIcon": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/whatsapp_business.png",
+            "adBackground": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/card_image_1.png",
+            "appDescription": "Test descrpition data",
+            "buttonName": "Install1",
+            "isFullScreenAd": true,
+            "appLink": "www.google.com","appId":"EX_0001"
+        },
+        {
+            "appName": "WhatsTouch",
+            "appReview": "4/5",
+            "appIcon": "https://raw.githubusercontent.com/natheeshsunway/whatstouch/master/v1/ApplicationAds/icons/whatsapp_business.png",
+            "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/app-promote_1.png",
+            "appDescription": "Test descrpition data",
+            "buttonName": "Install1",
+            "isFullScreenAd": true,
+            "appLink": "www.google.com","appId":"EX_0002"
+        }
+    ]
+}
