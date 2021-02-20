@@ -3,9 +3,9 @@
         {
             "appName": "WhatsTouch",
             "appReview": "4.9/5",
-            "appIcon": "",
+            "appIcon": "https://play.google.com/store/apps/details?id=com.softwares.bannari.whatstouch",
             "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/app-promote_1.png",
-            "appDescription": "",
+            "appDescription": "Share now",
             "buttonName": "View",
             "isFullScreenAd": false,
             "appLink": "https://play.google.com/store/apps/details?id=com.softwares.bannari.whatstouch","appId":"EX_0002"
