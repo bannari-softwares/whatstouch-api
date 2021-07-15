@@ -4,6 +4,16 @@
             "appName": "",
             "appReview": "",
             "appIcon": "",
+            "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/give_time.png",
+            "appDescription": "",
+            "buttonName": "",
+            "isFullScreenAd": true,
+            "appLink": "","appId":"EX_0004"
+        },
+        {
+            "appName": "",
+            "appReview": "",
+            "appIcon": "",
             "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/downloads.png",
             "appDescription": "",
             "buttonName": "",
