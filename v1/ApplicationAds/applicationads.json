@@ -4,11 +4,12 @@
             "appName": "",
             "appReview": "",
             "appIcon": "",
-            "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/give_time.png",
+            "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/german.jpeg",
             "appDescription": "",
             "buttonName": "",
             "isFullScreenAd": true,
-            "appLink": "","appId":"EX_0004"
+            "appLink": "",
+            "appId":"EX_0003"
         },
         {
             "appName": "",
@@ -24,12 +25,11 @@
             "appName": "",
             "appReview": "",
             "appIcon": "",
-            "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/german.jpeg",
+            "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/give_time.png",
             "appDescription": "",
             "buttonName": "",
             "isFullScreenAd": true,
-            "appLink": "",
-            "appId":"EX_0003"
+            "appLink": "","appId":"EX_0004"
         }
     ]
 }
