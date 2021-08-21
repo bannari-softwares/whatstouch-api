@@ -29,17 +29,6 @@
             "buttonName": "Install1",
             "isFullScreenAd": true,
             "appLink": "www.google.com","appId":"EX_0002"
-        },
-        {
-            "appName": "",
-            "appReview": "",
-            "appIcon": "",
-            "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/german.jpeg",
-            "appDescription": "",
-            "buttonName": "",
-            "isFullScreenAd": true,
-            "appLink": "",
-            "appId":"EX_0003"
         }
     ]
 }
