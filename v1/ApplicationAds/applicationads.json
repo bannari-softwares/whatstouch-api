@@ -8,6 +8,7 @@
             "appDescription": "",
             "buttonName": "",
             "isFullScreenAd": true,
+            "isGradientEnabled":false,
             "appLink": "","appId":"EX_0002"
         },
         {
@@ -18,6 +19,7 @@
             "appDescription": "",
             "buttonName": "Got it",
             "isFullScreenAd": false,
+            "isGradientEnabled":false,
             "appLink": "",
             "appId":"EX_0005"
         }
