@@ -7,7 +7,7 @@
             "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/version_46_a.webp",
             "appDescription": "",
             "buttonName": "Give 5 stars",
-            "isFullScreenAd": true,
+            "isFullScreenAd": false,
             "isGradientEnabled":false,
             "appLink": "","appId":"EX_0002"
         },
