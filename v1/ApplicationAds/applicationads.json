@@ -6,7 +6,7 @@
             "appIcon": "",
             "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/version_46_a.webp",
             "appDescription": "",
-            "buttonName": "",
+            "buttonName": "Give 5 stars",
             "isFullScreenAd": true,
             "isGradientEnabled":false,
             "appLink": "","appId":"EX_0002"
@@ -17,7 +17,7 @@
             "appIcon": "",
             "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/version_46_b.webp",
             "appDescription": "",
-            "buttonName": "Update Now",
+            "buttonName": "Rate it",
             "isFullScreenAd": false,
             "isGradientEnabled":false,
             "appLink": "https://play.google.com/store/apps/details?id=com.softwares.bannari.whatstouch",
