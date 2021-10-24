@@ -1,26 +1,16 @@
 {
     "applicationList": [
+     
         {
             "appName": "",
             "appReview": "",
             "appIcon": "",
-            "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/version_46_a.webp",
+            "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/telegram.webp",
             "appDescription": "",
-            "buttonName": "Give 5 stars",
+            "buttonName": "Join",
             "isFullScreenAd": false,
             "isGradientEnabled":false,
-            "appLink": "","appId":"EX_0002"
-        },
-        {
-            "appName": "",
-            "appReview": "",
-            "appIcon": "",
-            "adBackground": "https://raw.githubusercontent.com/bannarisoftwares/whatstouch-api/master/v1/ApplicationAds/icons/version_46_b.webp",
-            "appDescription": "",
-            "buttonName": "Rate it",
-            "isFullScreenAd": false,
-            "isGradientEnabled":false,
-            "appLink": "https://play.google.com/store/apps/details?id=com.softwares.bannari.whatstouch",
+            "appLink": "https://t.me/joinchat/5-VEZAa-jEdiOWU9",
             "appId":"EX_0005"
         }
     ]
